@@ -1,0 +1,16 @@
+Test loss: 0.7126809358596802
+Test accuracy: 0.7280701994895935
+8/8 ━━━━━━━━━━━━━━━━━━━━ 1s 79ms/step 
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     buffalo       0.83      0.51      0.63        57
+    elephant       0.62      0.61      0.62        57
+       rhino       0.63      0.86      0.73        57
+       zebra       0.90      0.93      0.91        57
+
+    accuracy                           0.73       228
+   macro avg       0.75      0.73      0.72       228
+weighted avg       0.75      0.73      0.72       228
+
